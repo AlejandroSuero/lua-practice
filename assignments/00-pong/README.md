@@ -35,4 +35,18 @@ This version is built to more closely resemble the NES that the original Pang ma
 
     Added square centered, the ball.
 
-    <img src="./images/pong-2.png" width="894" height="489">
+    <img src="./images/pong-2.png" width="894" height="489" />
+
+-   [PONG -3](pong-3)
+
+    Added players movements, Left player ('w' and 's') and Right player ('up' and 'down').
+
+-   [PONG - 4](pong-4)
+
+    Added ball movement.
+
+    Added Game state change when pressing 'enter' or 'return'.
+
+    On Game state 'play' the ball moves in a random direction.
+
+    <img src="./images/pong-4.gif" width="894" height="489" />
