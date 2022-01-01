@@ -17,17 +17,17 @@ This version is built to more closely resemble the NES that the original Pang ma
 
 ### Building process
 
--   PONG - 0
+-   [PONG - 0](pong-0)
 
     Created a 1280x720 window with 'Hello Pong' text align in the center.
 
--   PONG - 1
+-   [PONG - 1](pong-1)
 
     Created a 432x243 window rendered at 1280x720 with the text being filtered.
 
     Added 'push' library to make it virtual low res (retro-looking).
 
--   PONG - 2
+-   [PONG - 2](pong-2)
 
     Added a more retro font and moved the text to the top of the screen.
 
@@ -35,4 +35,4 @@ This version is built to more closely resemble the NES that the original Pang ma
 
     Added square centered, the ball.
 
-    <img src="./images/pong-2.png" width="894" height="489">
+    <img src="./images/pong-2.png" width="432" height="243">
