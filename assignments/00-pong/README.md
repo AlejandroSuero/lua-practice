@@ -35,4 +35,4 @@ This version is built to more closely resemble the NES that the original Pang ma
 
     Added square centered, the ball.
 
-    <img src="./images/pong-2.png" width="432" height="243">
+    <img src="./images/pong-2.png" width="894" height="489">
