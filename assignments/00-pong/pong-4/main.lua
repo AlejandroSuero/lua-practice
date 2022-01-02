@@ -5,8 +5,8 @@
     Author: Alejandro Suero Mejías "aome"
     asuerome@gmail.com
 
-    pong-3
-    "The Paddle Update"
+    pong-4
+    "The Rectangle Update"
 
 ]]
 
