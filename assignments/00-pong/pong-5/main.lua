@@ -13,9 +13,6 @@
 -- https://github.com/Ulydev/
 push = require 'push'
 
--- 
-class = require 'class'
-
 -- Window resolution 720p (rendered at)
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
