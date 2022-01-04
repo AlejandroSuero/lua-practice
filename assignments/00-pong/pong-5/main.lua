@@ -169,5 +169,17 @@ function love.draw()
     love.graphics.print(tostring(player1_score), VIRTUAL_WIDTH / 2 - 50, VIRTUAL_HEIGHT / 3)
     love.graphics.print(tostring(player2_score), VIRTUAL_WIDTH / 2 + 30, VIRTUAL_HEIGHT / 3)
 
+    displayFPS()
+
     push:finish()
+end
+
+--[[
+    Renders the current FPS
+]]
+function displayFPS()
+    -- simple FPS display accross all states
+    love.graphics.setFont(small_font)
+    love.graphics.setColor(0, 255, 0, 255)
+    love.graphics.print('FPS: ' .. tostring(love.timer.getFPS()), 15, 5)
 end

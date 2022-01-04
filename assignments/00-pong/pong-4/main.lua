@@ -6,7 +6,7 @@
     asuerome@gmail.com
 
     pong-4
-    "The Rectangle Update"
+    "The Ball Update"
 
 ]]
 
